@@ -1,0 +1,10 @@
+*.dat diff
+*.haz diff
+*.w diff
+*.rdb diff
+*.ref diff
+*.tdb diff
+*.trk diff
+*.rit diff
+*.tit diff
+*.sms diff
