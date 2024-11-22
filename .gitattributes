@@ -1,11 +1,12 @@
-*.dat diff
-*.haz diff
-*.w diff
-*.rdb diff
-*.ref diff
-*.tdb diff
-*.trk diff
-*.rit diff
-*.tit diff
-*.sms diff
-*.pat diff
+*.dat diff linguist-detectable=false
+*.haz diff linguist-detectable=false
+*.w diff linguist-detectable=false
+*.ws diff linguist-detectable=false
+*.rdb diff linguist-detectable=false
+*.ref diff linguist-detectable=false
+*.tdb diff linguist-detectable=false
+*.trk diff linguist-detectable=false
+*.rit diff linguist-detectable=false
+*.tit diff linguist-detectable=false
+*.sms diff linguist-detectable=false
+*.pat diff linguist-detectable=false
